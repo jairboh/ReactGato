@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactGato/static/css/main.bed281c7.css",
+    "main.js": "/ReactGato/static/js/main.12114a75.js",
+    "index.html": "/ReactGato/index.html",
+    "main.bed281c7.css.map": "/ReactGato/static/css/main.bed281c7.css.map",
+    "main.12114a75.js.map": "/ReactGato/static/js/main.12114a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed281c7.css",
+    "static/js/main.12114a75.js"
+  ]
+}
